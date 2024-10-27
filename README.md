@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aryan Srivastava</h1>
-<h3 align="center">A passionate ML enthusiast.</h3>
+<h3 align="center">A passionate Python Developer & ML Enthusiast.</h3>
 
-- 🔭 I’m currently working on **Twitter Data Exploration**
+- 🔭 I’m currently working on **A MLP Chatbot**
 
 - 🌱 I’m currently learning **Flask and FastAPI**
 
